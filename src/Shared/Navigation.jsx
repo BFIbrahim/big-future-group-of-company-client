@@ -23,7 +23,7 @@ const Navigation = () => {
                     </p>
                 </p>
             </div>
-            <div className='text-center md:text-end lg:text-end'>
+            <div className='text-center md:text-end lg:text-end mb-10 md:mb-0 lg:mb-0'>
                 <button className='btn bg-transparent border-2 border-blue-950 text-blue-950 font-semibold'>Contact Us</button>
             </div>
         </div>
